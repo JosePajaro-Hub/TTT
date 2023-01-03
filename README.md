@@ -6,4 +6,3 @@ Para la ejecución del programa se recomienda el comando "npm run dev"
 Nota: en caso de problemas con una dependencia especifica se recomienda buscr el nombre o actualización de esta dependencia y usar el comando "npm install `nombreDependencia`
 
 Prueba de git add
-aaaaaaaaaaaa
