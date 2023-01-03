@@ -1,0 +1,13 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "npm",
+			"script": "dev",
+			"path": "src",
+			"problemMatcher": [],
+			"label": "npm: dev - src",
+			"detail": "nodemon src/index.js"
+		}
+	]
+}
